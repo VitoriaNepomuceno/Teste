@@ -1,0 +1,15 @@
+para encontrar o tempo gasto para os dois se encontrarem eu pego a distancia percorrida divido pela soma 
+da distancia percorrida peo carro e o caminhao (170) (é a fomula passada pela internet para tempo)
+
+125/ 170 = 0,735h
+
+ai eu somo os 15m, convertendo ele para horas 
+15 * 60 = 0,25
+
+somo as horas que eu tenho já
+0,735 + 0,25 = 0,985
+
+Distancia do Carro 90 * 0,985= 88,65km
+Distancia do Caminhao 80 * 0,985 = 78,8km
+
+ou seja o caminhao esta mais perto
